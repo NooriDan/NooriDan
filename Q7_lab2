@@ -159,3 +159,14 @@ void TestQ7_allZeroGenerating(CuTest *tc) {
 		CuAssertIntEquals(tc, expected_output_pos[i], actual_output_pos[i]);
 	}
 }
+
+
+
+	// Added
+	SUITE_ADD_TEST(suite, TestQ7_differntSizeInputs);
+	SUITE_ADD_TEST(suite, TestQ7_samePos);
+	SUITE_ADD_TEST(suite, TestQ7_ZeroGenerating1);
+	SUITE_ADD_TEST(suite, TestQ7_ZeroGenerating2);
+	SUITE_ADD_TEST(suite, TestQ7_ZeroGenerating3);
+	SUITE_ADD_TEST(suite, TestQ7_allZeroGenerating);
+	// ^^^
