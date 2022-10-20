@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NooriDan
-- 👀 I’m interested in Aerospace
-- 🌱 I’m currently learning MATLAB (Simulink and MatWorks)
+- 👀 I’m interested in Aerospace - Hardware & software design
+- 🌱 I’m currently learning MATLAB (Simulink and MatWorks) & HDL (verilog)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (noorizad@mcmaster.ca)
 
